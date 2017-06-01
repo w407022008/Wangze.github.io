@@ -1,11 +1,11 @@
 # Site settings
-title: Data Science Specialization
-email:
+title: Sommaire Entier
+email: w407022008@gmail.com
 description: Community Site
 baseurl:
 url:
 twitter_username:
-github_username:  DataScienceSpecialization
+github_username:  w407022008
 
 # Build settings
 markdown: kramdown
