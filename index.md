@@ -2,11 +2,7 @@
 layout: page
 ---
 
-## Table of Contents
-
-This site is meant to serve as a directory for the amazing content the
-community has created around the Data Science Specialization. If you are
-interested in contributing [click here](https://github.com/DataScienceSpecialization/DataScienceSpecialization.github.io#contributing).
+This site will record all of my study notes. C'est en train de ....
 
 1. [The Data Scientist’s Toolbox](/sique.github.io/toolbox/)
 2. [R Programming](/sique.github.io/rprog/)
