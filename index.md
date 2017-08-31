@@ -14,7 +14,7 @@ This site will record all of my study notes. C'est en train de ....
 8. [Practical Machine Learning](/sique.github.io/pml/)
 9. [Developing Data Products](/sique.github.io/ddp/)
 10. [Capstone](/sique.github.io/capstone/)
-11.[Jupyter notebook-Markdown 学习笔记](/sique.github.io/Jupyter notebook-Markdown 学习笔记/)
+11.[Jupyter notebook-Markdown Note](/sique.github.io/Jupyter notebook-Markdown Note/)
 
 - [Other Resources](/sique.github.io/other/)
 - [Curated Pages](/sique.github.io/curated/)
