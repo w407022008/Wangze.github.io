@@ -1,6 +1,6 @@
-//---
-//layout: page
-//---
+#---
+#layout: page
+#---
 
 This site will record all of my study notes. C'est en train de ....
 
@@ -13,7 +13,7 @@ This site will record all of my study notes. C'est en train de ....
 7. [Regression Models](/sique.github.io/regmod/)
 8. [Practical Machine Learning](/sique.github.io/pml/)
 9. [Developing Data Products](/sique.github.io/ddp/)
-//10. [Capstone](/sique.github.io/capstone/)
+#10. [Capstone](/sique.github.io/capstone/)
 10.[Jupyter Markdown Note](http://nbviewer.jupyter.org/github/w407022008/Python-Notes/blob/master/some%20tips/Jupyter%20notebook-Markdown%20Note.ipynb)
 
 - [Other Resources](/sique.github.io/other/)
