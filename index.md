@@ -4,6 +4,9 @@ layout: page
 
 This site will record all of my study notes. C'est en train de ....
 
+---
+* [All of Notes](https://w407022008.github.io/All-of-Notes/)
+---
 1. [The Data Scientist’s Toolbox](/sique.github.io/toolbox/)
 2. [R Programming](/sique.github.io/rprog/)
 3. [Getting and Cleaning Data](/sique.github.io/getclean/)
@@ -14,8 +17,6 @@ This site will record all of my study notes. C'est en train de ....
 8. [Practical Machine Learning](/sique.github.io/pml/)
 9. [Developing Data Products](/sique.github.io/ddp/)
 10. [Capstone](/sique.github.io/capstone/)
----
-* [All of Notes](https://w407022008.github.io/All-of-Notes/)
 
 - [Other Resources](/sique.github.io/other/)
 - [Curated Pages](/sique.github.io/curated/)
