@@ -7,6 +7,8 @@ This site will record all of my study notes. C'est en train de ....
 ---
 * [All of Notes](https://w407022008.github.io/All-of-Notes/)
 ---
+1. [Kalman and Bayesian Filters in Python](https://w407022008.github.io/Kalman-and-Bayesian-Filters-in-Python/)
+---
 1. [The Data Scientist’s Toolbox](/sique.github.io/toolbox/)
 2. [R Programming](/sique.github.io/rprog/)
 3. [Getting and Cleaning Data](/sique.github.io/getclean/)
